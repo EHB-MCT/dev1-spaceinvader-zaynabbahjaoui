@@ -9,9 +9,9 @@ drawName();
 
 function drawName() {
 
-//Z
+
 context.lineWidth = 150;
-context.strokeStyle ='#5bcb78';
+context.strokeStyle ='#59ff00';
 
 context.beginPath();
 context.lineTo(400,200);
